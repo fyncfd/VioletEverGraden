@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"On Sale 98.0\nOn Sale 97.0\nOn Sale 98.9"
+		],
+		"test": "4 99\n98.0\n\n97.0\n100.2\n98.9\n"
+	}
+]

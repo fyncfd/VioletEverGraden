@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "ioi\n"
+	},
+	{
+		"correct_answers":
+		[
+			"NO"
+		],
+		"test": "Ioi\n"
+	}
+]

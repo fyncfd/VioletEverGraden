@@ -1,0 +1,24 @@
+[
+	{
+		"correct_answers":
+		[
+			"mei you mai xigua de"
+		],
+		"test": "10 xigua 1 10\\\n"
+	},
+	{
+		"correct_answers":
+		[
+			"kan dao le mai huanggua de",
+			"kan dap le mai huanggua de"
+		],
+		"test": "10 huanggua 1 1\n"
+	},
+	{
+		"correct_answers":
+		[
+			"wang le zhao mai shagua de"
+		],
+		"test": "10 shagua 1 250\n"
+	}
+]

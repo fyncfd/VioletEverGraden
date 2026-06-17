@@ -1,0 +1,10 @@
+[
+	{
+		"correct_answers":
+		[
+			"No\nNo\nYes\nYes",
+			"No\nnO\nYes\nYES"
+		],
+		"test": "4\n2\naa\n3\naba\n4\nabcb\n12\nabcabcabcabc\n"
+	}
+]

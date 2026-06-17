@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"T1 beats BLG"
+		],
+		"test": "LNG 55\nWBG 65\nHLE 70\nBLG 75\nTES 48\nT1 80\nGEN 60\nFLY 50\n"
+	}
+]

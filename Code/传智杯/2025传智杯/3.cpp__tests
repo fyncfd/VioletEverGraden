@@ -1,0 +1,44 @@
+[
+	{
+		"correct_answers":
+		[
+			"1"
+		],
+		"test": "(x-1)(x+2)(x+3)\n"
+	},
+	{
+		"correct_answers":
+		[
+			"4"
+		],
+		"test": "(x-1)(x+5)\n"
+	},
+	{
+		"correct_answers":
+		[
+			"-29"
+		],
+		"test": "(x-1)(x+5)(x-1)(x+2)(x+3)\n"
+	},
+	{
+		"correct_answers":
+		[
+			"60"
+		],
+		"test": "(x-1)(x+5)(x-1)(x+2)(x+3)(x+1)(x-1)(x+5)(x-1)(x+2)(x+3)(x+1)\n\n\n"
+	},
+	{
+		"correct_answers":
+		[
+			"5005"
+		],
+		"test": "(x+9)(x+9)(x+9)(x+9)(x+9)\n"
+	},
+	{
+		"correct_answers":
+		[
+			"5005"
+		],
+		"test": "(x-9)(x-9)(x-9)(x-9)(x-9)\n"
+	}
+]

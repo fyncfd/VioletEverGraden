@@ -1,0 +1,17 @@
+[
+	{
+		"test": "5\nMaoNiang\nSeQing\nBaoLi\nWeiGui\nBuHeShi\n4\nBianCheng MaoNiang ba! WeiGui De Hua Ye Keyi Shuo! BuYao BaoLi NeiRong.\n"
+	},
+	{
+		"test": "5\nMaoNiang\nSeQing\nBaoLi\nWeiGui\nBuHeShi\n3\nBianCheng MaoNiang ba! WeiGui De Hua Ye Keyi Shuo! BuYao BaoLi NeiRong.\n"
+	},
+	{
+		"test": "2\nAA\nBB\n3\nAAABBB\n"
+	},
+	{
+		"test": "2\nAB\nBB\n3\nAAABBB\n"
+	},
+	{
+		"test": "2\nBB\nAB\n3\nAAABBB\n"
+	}
+]

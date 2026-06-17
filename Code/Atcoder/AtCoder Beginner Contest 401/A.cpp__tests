@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"Success"
+		],
+		"test": "200\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Failure"
+		],
+		"test": "401\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Failure"
+		],
+		"test": "999\n"
+	}
+]

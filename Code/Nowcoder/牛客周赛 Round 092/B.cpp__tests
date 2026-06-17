@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"DDS"
+		],
+		"test": "2 3\n...\n.#.\n"
+	}
+]

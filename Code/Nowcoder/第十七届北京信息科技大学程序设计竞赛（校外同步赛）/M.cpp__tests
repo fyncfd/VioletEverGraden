@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"3.63"
+		],
+		"test": "86.3\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1.00"
+		],
+		"test": "60.0\n"
+	},
+	{
+		"correct_answers":
+		[
+			"0.00"
+		],
+		"test": "59.9\n"
+	}
+]

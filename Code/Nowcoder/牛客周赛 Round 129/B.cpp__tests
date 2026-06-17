@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"right"
+		],
+		"test": "abc\n"
+	},
+	{
+		"correct_answers":
+		[
+			"right"
+		],
+		"test": "now\n"
+	},
+	{
+		"correct_answers":
+		[
+			"equal"
+		],
+		"test": "a\n"
+	}
+]

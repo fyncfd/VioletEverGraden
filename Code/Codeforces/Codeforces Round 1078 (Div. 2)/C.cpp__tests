@@ -1,0 +1,22 @@
+[
+	{
+		"correct_answers":
+		[
+			"aaa\ninfinfinf\nacac"
+		],
+		"test": "3\n3 2\nabc\nbaa\n9 2\niiinnnfff\nnnfiffinn\n4 2\nacbd\nbdac\n"
+	},
+	{
+		"correct_answers":
+		[
+			"acac"
+		],
+		"test": "1\n4 2\nacbd\nbdac\n"
+	},
+	{
+		"test": "1\n4 2\naaaa\naaaa\n"
+	},
+	{
+		"test": "1\n4 2\nabcd\nbaaa\n"
+	}
+]

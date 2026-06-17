@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"500000006"
+		],
+		"test": "3\n1 2\n2 3\n"
+	},
+	{
+		"correct_answers":
+		[
+			"250000004"
+		],
+		"test": "4\n1 2\n1 3\n2 4\n"
+	},
+	{
+		"correct_answers":
+		[
+			"666666674"
+		],
+		"test": "4\n2 3\n2 4\n2 1\n"
+	}
+]

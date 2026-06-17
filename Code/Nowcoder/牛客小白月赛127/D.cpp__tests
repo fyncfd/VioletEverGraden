@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"1\n1\n1\n3\n1\n-1"
+		],
+		"test": "6\n1 1 2\nr\n1 1 2\ny\n1 1 2\nw\n3 0 5\nryy\n6 1 2\nyyyywy\n5 5 11\nwwwww\n"
+	}
+]

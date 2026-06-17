@@ -1,0 +1,1 @@
+[{"test": "6\nabcarc\nagcahc\n", "correct_answers": ["2"]}, {"test": "7\natcoder\ncontest\n", "correct_answers": ["7"]}, {"test": "8\nchokudai\nchokudai\n", "correct_answers": ["0"]}, {"test": "10\nvexknuampx\nvzxikuamlx\n", "correct_answers": ["4"]}]

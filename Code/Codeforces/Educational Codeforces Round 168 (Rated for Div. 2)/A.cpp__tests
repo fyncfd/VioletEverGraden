@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"wa\naada\nabcb\npastsword"
+		],
+		"test": "4\na\naaa\nabb\npassword\n"
+	}
+]

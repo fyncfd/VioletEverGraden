@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"YES\nNO\nYES\nNO"
+		],
+		"test": "4\nabab\ncdcd\nabce\nabab\ncdcd\nabcd\nabab\ncdcd\nabc\nx\nyz\ndef\n"
+	}
+]

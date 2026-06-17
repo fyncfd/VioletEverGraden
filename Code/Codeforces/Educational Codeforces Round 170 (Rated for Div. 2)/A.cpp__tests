@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"14\n10\n16"
+		],
+		"test": "3\nGARAGE\nGARAGEFORSALE\nABCDE\nAABCD\nTRAINING\nDRAINING\n"
+	}
+]

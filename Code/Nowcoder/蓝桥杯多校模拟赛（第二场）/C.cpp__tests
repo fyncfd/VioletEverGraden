@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"aaaaab aabb bbaa abc cba ab ba a bbbbb c"
+		],
+		"test": "10\na c ab ba aabb bbaa abc cba aaaaab bbbbb\n"
+	},
+	{
+		"correct_answers":
+		[
+			"aab baa aac cab adc"
+		],
+		"test": "5\naab aac adc baa cab\n"
+	}
+]

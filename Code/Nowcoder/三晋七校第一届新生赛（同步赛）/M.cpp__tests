@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"POSSIBLE"
+		],
+		"test": "6\n1 10\n1 10\n1 10\n1 10\n1 10\n1 10\n"
+	},
+	{
+		"correct_answers":
+		[
+			"NO TLE"
+		],
+		"test": "2\n2 6\n1 5\n"
+	}
+]

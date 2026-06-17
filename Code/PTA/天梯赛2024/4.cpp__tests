@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"Lv Yan\nTu Dou\nzhe du shi sha ya!"
+		],
+		"test": "3\n3 3 9\n3 3 6\n3 3 12\n"
+	}
+]

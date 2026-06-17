@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"zzbd"
+		],
+		"test": "4\nzyac\n"
+	},
+	{
+		"correct_answers":
+		[
+			"zzzz"
+		],
+		"test": "4\nzyzz\n"
+	},
+	{
+		"correct_answers":
+		[
+			"zc"
+		],
+		"test": "2\nxa\n"
+	}
+]

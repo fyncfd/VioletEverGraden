@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"GBBBB\nGYBYG\nGGGGG"
+		],
+		"test": "3\n5\nCATCH\nBATCH\n5\nBLOOD\nGOODS\n5\nSILLY\nCHEAT\n"
+	}
+]

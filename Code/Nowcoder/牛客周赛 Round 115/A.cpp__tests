@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"436"
+		],
+		"test": "Accepted\n9 276\n"
+	},
+	{
+		"correct_answers":
+		[
+			"0"
+		],
+		"test": "Rejected\n9 276\n"
+	}
+]

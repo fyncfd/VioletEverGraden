@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"YES\nNO"
+		],
+		"test": "2\n5\n1 7 6 7 67\n5\n1 3 5 7 8\n"
+	}
+]
