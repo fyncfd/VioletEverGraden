@@ -1,2 +1,4 @@
 # VioletEverGraden
-留存一下算法竞赛的板子，以及各个平台的比赛记录。
+## AlgoStruggler
+
+这是存板子的源文件和pdf格式的地方。
